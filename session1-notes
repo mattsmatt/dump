@@ -11,3 +11,10 @@ ROOT: C:\Users\ThinkPad\AppData\Local\Packages\CanonicalGroupLimited.Ubuntu20.04
 sudo = super user do
 su = superuser
 sudo su = to access root user
+exit = change root user to previous username
+
+make = F9 (compile)
+./namafile = run (F10)
+
+wslview . = view wsl location
+
