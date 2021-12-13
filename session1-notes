@@ -1,0 +1,13 @@
+ls = listing
+cd = change directory
+mkdir = make directory
+rmdir = remove directory
+touch = create file
+rm = remove
+
+NOTE: only accessible via WLS
+ROOT: C:\Users\ThinkPad\AppData\Local\Packages\CanonicalGroupLimited.Ubuntu20.04onWindows_79rhkp1fndgsc\LocalState\rootfs\home\blackhatmatt
+
+sudo = super user do
+su = superuser
+sudo su = to access root user
